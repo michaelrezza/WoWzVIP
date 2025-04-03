@@ -32,7 +32,7 @@
 کد زیر را در **ترماکس** اجرا کنید:  
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/arshiacomplus/WarpScanner/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/michaelrezza/WoWzVIP/refs/heads/main/install.sh)
 ```
 
 ---
